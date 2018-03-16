@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Doug McInnes</title>
+  <id>http://dougmcinnes.com</id>
+  <updated>2008-01-26</updated>
+  <author>
+    <name>Doug McInnes</name>
+  </author>
+  <entry>
+    <title>Dungeon of D</title>
+    <link rel="alternate" href="http://dougmcinnes.com/2016/05/02/dungeon-of-d/"/>
+    <id>http://dougmcinnes.com/2016/05/02/dungeon-of-d/</id>
+    <published>2016-05-02</published>
+    <updated>2016-05-02</updated>
+    <author>
+      <name>Doug McInnes</name>
+    </author>
+    <summary type="html">&lt;p&gt;As a recent side project I&amp;rsquo;ve built an &lt;a href="http://dod.dogwatchgames.com/"&gt;HTML5 version of Dungeon of D&lt;/a&gt;, a single player card game.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.jackdgames.com/free_games#mf_itemGuid.557a5ef00a7d22.3884731"&gt;Original Print &amp;amp; Play Game&lt;/a&gt; by &lt;a href="http://www.jackdgames.com/"&gt;Jack Darwid&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+</summary>
+    <content type="html">&lt;p&gt;As a recent side project I&amp;rsquo;ve built an &lt;a href="http://dod.dogwatchgames.com/"&gt;HTML5 version of Dungeon of D&lt;/a&gt;, a single player card game.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.jackdgames.com/free_games#mf_itemGuid.557a5ef00a7d22.3884731"&gt;Original Print &amp;amp; Play Game&lt;/a&gt; by &lt;a href="http://www.jackdgames.com/"&gt;Jack Darwid&lt;/a&gt;.
+(&lt;a href="https://boardgamegeek.com/boardgame/34639/dungeon-d"&gt;Board Game Geek&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://dod.dogwatchgames.com/"&gt;Play It!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This will work on at least the iPad/iPhone and (up to date) desktop browsers. If you have an Android device please let me know if this works!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/dmcinnes/DoD"&gt;Source is also available&lt;/a&gt; for the curious.&lt;/p&gt;
+
+&lt;p&gt;If you run into any bugs &lt;a href="https://github.com/dmcinnes/DoD/issues"&gt;please let me know&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Dead Valley is now Open Source</title>
+    <link rel="alternate" href="http://dougmcinnes.com/2014/01/16/dead-valley-is-now-open-source/"/>
+    <id>http://dougmcinnes.com/2014/01/16/dead-valley-is-now-open-source/</id>
+    <published>2014-01-16</published>
+    <updated>2014-01-16</updated>
+    <author>
+      <name>Doug McInnes</name>
+    </author>
+    <summary type="html">&lt;p&gt;Get it while it&amp;rsquo;s hot&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a title="Dead Valley on Github" href="https://github.com/dmcinnes/dead-valley"&gt;https://github.com/dmcinnes/dead-valley&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</summary>
+    <content type="html">&lt;p&gt;Get it while it&amp;rsquo;s hot&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a title="Dead Valley on Github" href="https://github.com/dmcinnes/dead-valley"&gt;https://github.com/dmcinnes/dead-valley&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Released under &lt;a href="http://creativecommons.org/licenses/by-nc/4.0/"&gt;Creative Commons Attribution-NonCommercial&lt;/a&gt; License&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Dead Valley Version 1.1 Released!</title>
+    <link rel="alternate" href="http://dougmcinnes.com/2012/10/31/dead-valley-version-1-1-released/"/>
+    <id>http://dougmcinnes.com/2012/10/31/dead-valley-version-1-1-released/</id>
+    <published>2012-10-31</published>
+    <updated>2012-10-31</updated>
+    <author>
+      <name>Doug McInnes</name>
+    </author>
+    <summary type="html">&lt;p&gt;Mostly a bugfix release.&lt;/p&gt;
+
+&lt;p&gt;See the Dogwatch Games blog post for details:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://dogwatchgames.com/blog/dead-valley-version-1.1-released/"&gt;http://dogwatchgames.com/blog/dead-valley-version-1.1-released/&lt;/a&gt;&lt;/p&gt;
+</summary>
+    <content type="html">&lt;p&gt;Mostly a bugfix release.&lt;/p&gt;
+
+&lt;p&gt;See the Dogwatch Games blog post for details:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://dogwatchgames.com/blog/dead-valley-version-1.1-released/"&gt;http://dogwatchgames.com/blog/dead-valley-version-1.1-released/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Happy Halloween!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Official Dead Valley Forum</title>
+    <link rel="alternate" href="http://dougmcinnes.com/2012/10/28/official-dead-valley-forum/"/>
+    <id>http://dougmcinnes.com/2012/10/28/official-dead-valley-forum/</id>
+    <published>2012-10-28</published>
+    <updated>2012-10-28</updated>
+    <author>
+      <name>Doug McInnes</name>
+    </author>
+    <summary type="html">&lt;p&gt;Just &lt;a href="http://dogwatchgames.com/blog/official-dead-valley-forum/"&gt;posted on the Dogwatch Games blog&lt;/a&gt; a link to the new &lt;a href="https://groups.google.com/forum/?hl=en&amp;amp;fromgroups#!forum/deadvalley"&gt;Official Dead Valley Forum&lt;/a&gt;. Check it out!&lt;/p&gt;
+</summary>
+    <content type="html">&lt;p&gt;Just &lt;a href="http://dogwatchgames.com/blog/official-dead-valley-forum/"&gt;posted on the Dogwatch Games blog&lt;/a&gt; a link to the new &lt;a href="https://groups.google.com/forum/?hl=en&amp;amp;fromgroups#!forum/deadvalley"&gt;Official Dead Valley Forum&lt;/a&gt;. Check it out!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>HTML5 Game Dead Valley</title>
+    <link rel="alternate" href="http://dougmcinnes.com/2012/06/26/html5-game-dead-valley/"/>
+    <id>http://dougmcinnes.com/2012/06/26/html5-game-dead-valley/</id>
+    <published>2012-06-26</published>
+    <updated>2012-06-26</updated>
+    <author>
+      <name>Doug McInnes</name>
+    </author>
+    <summary type="html">&lt;h4&gt;GTA Style Zombie Survival in a Randomly Generated World&lt;/h4&gt;
+
+
+&lt;p&gt;I&amp;rsquo;m pleased to announce the release of my new game Dead Valley.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a title="Dead Valley" href="http://www.deadvalleygame.com"&gt;Play it!&lt;/a&gt;&lt;/h4&gt;
+
+</summary>
+    <content type="html">&lt;h4&gt;GTA Style Zombie Survival in a Randomly Generated World&lt;/h4&gt;
+
+
+&lt;p&gt;I&amp;rsquo;m pleased to announce the release of my new game Dead Valley.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a title="Dead Valley" href="http://www.deadvalleygame.com"&gt;Play it!&lt;/a&gt;&lt;/h4&gt;
+
+
+&lt;p&gt;It currently does not work on mobile devices, but that&amp;rsquo;s coming soon!&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a video showing gameplay:&lt;/p&gt;
+
+&lt;iframe src="http://www.youtube.com/embed/DaLrtgzg6ig" frameborder="0" width="640" height="480"&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;I&amp;rsquo;ll eventually write a post on the basics of how it works but for you buzzword compliant people here&amp;rsquo;s some of the HTML5 technologies I used: Web Audio, Canvas, Gradients, CSS 3D Transforms, Local Storage, Multiple CSS Backgrounds, CSS Opacity, and Web Workers.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Vim Jasmine Error Format</title>
+    <link rel="alternate" href="http://dougmcinnes.com/2012/05/08/vim-jasmine-error-format/"/>
+    <id>http://dougmcinnes.com/2012/05/08/vim-jasmine-error-format/</id>
+    <published>2012-05-08</published>
+    <updated>2012-05-08</updated>
+    <author>
+      <name>Doug McInnes</name>
+    </author>
+    <summary type="html">&lt;p&gt;I couldn&amp;rsquo;t find an acceptable &lt;a href="http://www.vim.org/"&gt;Vim&lt;/a&gt; &lt;a href="http://vimdoc.sourceforge.net/htmldoc/quickfix.html#errorformat"&gt;errorformat&lt;/a&gt; for when running &lt;a href="http://pivotal.github.com/jasmine/"&gt;Jasmine&lt;/a&gt; tests with &lt;a href="http://vimdoc.sourceforge.net/htmldoc/quickfix.html"&gt;quickfix&lt;/a&gt; (specifically using Jasmine&amp;rsquo;s ConsoleReporter), so I made my own&amp;hellip;&lt;/p&gt;
+</summary>
+    <content type="html">&lt;p&gt;I couldn&amp;rsquo;t find an acceptable &lt;a href="http://www.vim.org/"&gt;Vim&lt;/a&gt; &lt;a href="http://vimdoc.sourceforge.net/htmldoc/quickfix.html#errorformat"&gt;errorformat&lt;/a&gt; for when running &lt;a href="http://pivotal.github.com/jasmine/"&gt;Jasmine&lt;/a&gt; tests with &lt;a href="http://vimdoc.sourceforge.net/htmldoc/quickfix.html"&gt;quickfix&lt;/a&gt; (specifically using Jasmine&amp;rsquo;s ConsoleReporter), so I made my own.&lt;/p&gt;
+
+&lt;p&gt;If any of that made sense this may be of some use to you :)&lt;/p&gt;
+
+&lt;pre&gt;set errorformat=%E\ \ %.%#Error:%m,%-G%.%#/jasmine.js:%.%#,%C\ %#at\ %.%#\ (%f:%l:%c)&lt;/pre&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>Zapnutter</title>
+    <link rel="alternate" href="http://dougmcinnes.com/2011/08/23/zapnutter/"/>
+    <id>http://dougmcinnes.com/2011/08/23/zapnutter/</id>
+    <published>2011-08-23</published>
+    <updated>2011-08-23</updated>
+    <author>
+      <name>Doug McInnes</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;object id="squirrelzapruder" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="360" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"&gt;&lt;param name="align" value="middle" /&gt;&lt;param name="quality" value="high" /&gt;&lt;param name="bgcolor" value="#ccffff" /&gt;&lt;param name="play" value="true" /&gt;&lt;param name="loop" value="true" /&gt;&lt;param name="wmode" value="window" /&gt;&lt;param name="scale" value="showall" /&gt;&lt;param name="menu" value="true" /&gt;&lt;param name="devicefont" value="false" /&gt;&lt;param name="allowScriptAccess" value="sameDomain" /&gt;&lt;param name="src" value="/swf/squirrelzapruder.swf" /&gt;&lt;embed height="360" width="640" src="/swf/squirrelzapruder.swf" allowscriptaccess="sameDomain" devicefont="false" menu="true" scale="showall" wmode="window" loop="true" play="true" bgcolor="#ccffff" quality="high" align="middle" id="squirrelzapruder" type="application/x-shockwave-flash"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+
+
+&lt;p&gt; &lt;p&gt;The animation I did for the &lt;a href="http://www.cartoonstudies.org/"&gt;Center for Cartoon Studies&lt;/a&gt; &lt;a href="http://www.cartoonstudies.org/index.php/2011/08/16/animation-for-cartoonists/"&gt;Animation for Cartoonists workshop&lt;/a&gt; over the course of a week during this summer.&lt;/p&gt;&lt;p&gt;We did the whole process; coming up with ideas and workshopping them, storyboards, animatics, audio and final production. It went too fast &amp;ndash; I miss all the great people and energy.&lt;/p&gt;&lt;p&gt;Thanks Scott and Jennifer and all the students and staff for making it a great workshop!&lt;/p&gt;&lt;/p&gt;
+</summary>
+    <content type="html">&lt;p&gt;&lt;object id="squirrelzapruder" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="360" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"&gt;&lt;param name="align" value="middle" /&gt;&lt;param name="quality" value="high" /&gt;&lt;param name="bgcolor" value="#ccffff" /&gt;&lt;param name="play" value="true" /&gt;&lt;param name="loop" value="true" /&gt;&lt;param name="wmode" value="window" /&gt;&lt;param name="scale" value="showall" /&gt;&lt;param name="menu" value="true" /&gt;&lt;param name="devicefont" value="false" /&gt;&lt;param name="allowScriptAccess" value="sameDomain" /&gt;&lt;param name="src" value="/swf/squirrelzapruder.swf" /&gt;&lt;embed height="360" width="640" src="/swf/squirrelzapruder.swf" allowscriptaccess="sameDomain" devicefont="false" menu="true" scale="showall" wmode="window" loop="true" play="true" bgcolor="#ccffff" quality="high" align="middle" id="squirrelzapruder" type="application/x-shockwave-flash"&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+
+
+&lt;p&gt; &lt;p&gt;The animation I did for the &lt;a href="http://www.cartoonstudies.org/"&gt;Center for Cartoon Studies&lt;/a&gt; &lt;a href="http://www.cartoonstudies.org/index.php/2011/08/16/animation-for-cartoonists/"&gt;Animation for Cartoonists workshop&lt;/a&gt; over the course of a week during this summer.&lt;/p&gt;&lt;p&gt;We did the whole process; coming up with ideas and workshopping them, storyboards, animatics, audio and final production. It went too fast &amp;ndash; I miss all the great people and energy.&lt;/p&gt;&lt;p&gt;Thanks Scott and Jennifer and all the students and staff for making it a great workshop!&lt;/p&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Welcome Visitors</title>
+    <link rel="alternate" href="http://dougmcinnes.com/2011/07/05/welcome-visitors/"/>
+    <id>http://dougmcinnes.com/2011/07/05/welcome-visitors/</id>
+    <published>2011-07-05</published>
+    <updated>2011-07-05</updated>
+    <author>
+      <name>Doug McInnes</name>
+    </author>
+    <summary type="html">&lt;p&gt;When I released my &lt;a href="http://dougmcinnes.com/2010/05/12/html-5-asteroids/"&gt;HTML 5 Asteroids Clone&lt;/a&gt; last year it got a fair number of hits as the link was passed around the Twitters and random blog postings. Soon the hits dropped off and traffic normalized to slightly higher than before, still mostly from various blogs&amp;hellip;&lt;/p&gt;
+</summary>
+    <content type="html">&lt;p&gt;When I released my &lt;a href="http://dougmcinnes.com/2010/05/12/html-5-asteroids/"&gt;HTML 5 Asteroids Clone&lt;/a&gt; last year it got a fair number of hits as the link was passed around the Twitters and random blog postings. Soon the hits dropped off and traffic normalized to slightly higher than before, still mostly from various blogs.
+&lt;figure&gt;
+&lt;a href="/images/Screen-shot-2011-07-02-at-11.46.06-PM.png"&gt;&lt;img src="/images/Screen-shot-2011-07-02-at-11.46.06-PM.png" alt="WHOA TRAFFIC" title="asteroids release traffic spike" width="683" height="270" class="size-full wp-image-190" /&gt;&lt;/a&gt;
+&lt;figcaption&gt;The traffic spike from the release of HTML 5 Asteroids&lt;/figcaption&gt;
+&lt;/figure&gt;
+Lately I have been receiving some spikes in traffic directly to the HTML 5 Asteroids game almost all of which had no referrer. It was a puzzle &amp;ndash; up till now most of my traffic had come from a specific source but these visitors were coming directly to my site, from a bookmark, or just typing in the URL.
+At first I just shrugged it off, I figured some people had bookmarked the game and played it occasionally. Still the traffic kept coming, only abating on the weekends, and I couldn&amp;rsquo;t think I&amp;rsquo;d get that many hits from people casually playing from bookmarks. The Wordpress stats package wasn&amp;rsquo;t giving me much beyond the plain quantity of traffic.
+Finally I installed Google Analytics. I had never used it before but I figured it may give me more insight to where this traffic was coming from. It would at least tell me what kind of browser they were using.
+So I waited a few days for it to pull some data in. This is what I saw:&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+&lt;a href="/images/Screen-shot-2011-07-02-at-11.36.49-PM.png"&gt;&lt;img src="/images/Screen-shot-2011-07-02-at-11.36.49-PM.png" alt="" title="Internet Explorer?" width="590" height="223" class="size-full wp-image-192" /&gt;&lt;/a&gt;
+&lt;figcaption&gt;Internet Explorer? IE doesn&amp;#039;t support the canvas element. The game is unplayable on IE!&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;a href="/images/Screen-shot-2011-07-02-at-11.37.46-PM.png"&gt;&lt;img src="/images/Screen-shot-2011-07-02-at-11.37.46-PM.png" alt="Almost all the traffic is from Washington State" title="Washington State?" width="661" height="365" class="size-full wp-image-193" /&gt;&lt;/a&gt;
+&lt;figcaption&gt;Almost all the traffic is from Washington State?&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;a href="/images/Screen-shot-2011-07-02-at-11.58.49-PM.png"&gt;&lt;img src="/images/Screen-shot-2011-07-02-at-11.58.49-PM.png" alt="Traffic only from Seattle" title="Seattle?" width="657" height="369" class="size-full wp-image-194" /&gt;&lt;/a&gt;
+&lt;figcaption&gt;Seattle?&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;a href="/images/Screen-shot-2011-07-02-at-11.39.05-PM.png"&gt;&lt;img src="/images/Screen-shot-2011-07-02-at-11.39.05-PM.png" alt="All the traffic is from Microsoft Corp" title="Microsoft Corp?!" width="592" height="144" class="size-full wp-image-195" /&gt;&lt;/a&gt;
+&lt;figcaption&gt;Microsoft Corp?!&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;a href="/images/Screen-shot-2011-07-02-at-11.37.21-PM.png"&gt;&lt;img src="/images/Screen-shot-2011-07-02-at-11.37.21-PM.png" alt="All the traffic is from IE 10" title="IE 10!" width="591" height="135" class="size-full wp-image-196" /&gt;&lt;/a&gt;
+&lt;figcaption&gt;IE 10!&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Microsoft Engineers are using my HTML 5 Asteroids game to test IE 10&amp;rsquo;s new canvas element&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;There isn&amp;rsquo;t much to say but: Awesome!&lt;/p&gt;
+
+&lt;p&gt;Welcome Microsoft Engineers! Thank you for playing my game!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>HTML 5 Asteroids on the iPad</title>
+    <link rel="alternate" href="http://dougmcinnes.com/2010/05/24/html-5-asteroids-on-the-ipad/"/>
+    <id>http://dougmcinnes.com/2010/05/24/html-5-asteroids-on-the-ipad/</id>
+    <published>2010-05-24</published>
+    <updated>2010-05-24</updated>
+    <author>
+      <name>Doug McInnes</name>
+    </author>
+    <summary type="html">&lt;p&gt;I've added touch controls to the HTML 5 Asteroids game that will only appear when you're running it on an iPad.  The game will expand to fill the whole screen for maximum asteroid blasting action.  Orient your iPad in landscape fashion!&lt;/p&gt;
+
+
+&lt;p&gt; &lt;h1 style="text-align: center;"&gt;&lt;a href="http://dougmcinnes.com/html-5-asteroids/"&gt;Play It!&lt;/a&gt;&lt;/h1&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;There are a couple caveats (warning some nerdy content ahead):&lt;/p&gt; &lt;h4&gt;Tunneling Effect&lt;/h4&gt; &lt;p&gt;On the iPad the game runs at around 22 frames per second at its peak, not nearly as good as around 40 on a laptop, though it is enough for gameplay even if it can get choppy at times when there&amp;rsquo;s a lot of stuff whizzing around.&lt;/p&gt; &lt;p&gt;Unfortunately I&amp;rsquo;m only testing for collisions when the objects are rendered so it&amp;rsquo;s quite possible with lower framerates to have a bullet flying out of your ship first get rendered on one side of the asteroid you&amp;rsquo;re trying to pulverize and in the next frame get rendered on the other side letting it sail undamaged into your ship.  This is called the tunneling effect.  This is not a problem on a laptop or desktop because the framerates are high.  Since we&amp;rsquo;re sampling less per second (~22 verses ~40) a moving object is drawn less times though it&amp;rsquo;s traveling the same distance.  In other words if an asteroid travels from the top of the screen to the bottom of the screen in one second, on your computer it will most likely get drawn 40 times during that trip and on an iPad it will get drawn only 22 times leaving larger gaps between the drawings.  These larger gaps leave more of a chance for things to slip through and not collide when your eyes say they should have.&lt;/p&gt; &lt;p&gt;I&amp;rsquo;m considering augmenting the collision detection to remove the tunneling effect but it will need extra math which means slower framerates, at least initially.  It might be a better use of my time to pump framerates up.&lt;/p&gt; &lt;h4&gt;Buggy Touch Events&lt;/h4&gt; &lt;p&gt;There&amp;rsquo;s a bug with the iPad&amp;rsquo;s implementation of touch events in Javascript: if you have two fingers on the screen and raise one of them, a &amp;ldquo;touchend&amp;rdquo; event gets fired containing a reference to both fingers even though the second one hasn&amp;rsquo;t been raised.  If you then raise the second one, a &amp;ldquo;touchend&amp;rdquo; event is not fired.&lt;/p&gt; &lt;p&gt;It drove me nuts trying to figure this out and I haven&amp;rsquo;t been able to  work around it.&lt;/p&gt; &lt;p&gt;What this means for the game is that using two fingers at the same time will get frustrating fast as the control you&amp;rsquo;re holding down will stop working periodically.  I suggest tapping for the best experience instead of holding.&lt;/p&gt; &lt;p&gt;Oh, this does not happen on the iPhone in case you were wondering, it works as expected! I have sent a bug report to apple (with a &lt;a href="/wp-content/uploads/2010/05/test.html"&gt;sample html page&lt;/a&gt;) and hopefully they already have a fix that&amp;rsquo;s not available yet or they will fix it for a future release.&lt;/p&gt; &lt;p&gt;On a side note, why aren&amp;rsquo;t Apple&amp;rsquo;s bug lists searchable by the public?  They must get reams of dupes.&lt;/p&gt; &lt;ol&gt; &lt;/ol&gt; &lt;p&gt;In any case, let me know how it works!&lt;/p&gt;&lt;/p&gt;
+</summary>
+    <content type="html">&lt;p&gt;I've added touch controls to the HTML 5 Asteroids game that will only appear when you're running it on an iPad.  The game will expand to fill the whole screen for maximum asteroid blasting action.  Orient your iPad in landscape fashion!&lt;/p&gt;
+
+
+&lt;p&gt; &lt;h1 style="text-align: center;"&gt;&lt;a href="http://dougmcinnes.com/html-5-asteroids/"&gt;Play It!&lt;/a&gt;&lt;/h1&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;There are a couple caveats (warning some nerdy content ahead):&lt;/p&gt; &lt;h4&gt;Tunneling Effect&lt;/h4&gt; &lt;p&gt;On the iPad the game runs at around 22 frames per second at its peak, not nearly as good as around 40 on a laptop, though it is enough for gameplay even if it can get choppy at times when there&amp;rsquo;s a lot of stuff whizzing around.&lt;/p&gt; &lt;p&gt;Unfortunately I&amp;rsquo;m only testing for collisions when the objects are rendered so it&amp;rsquo;s quite possible with lower framerates to have a bullet flying out of your ship first get rendered on one side of the asteroid you&amp;rsquo;re trying to pulverize and in the next frame get rendered on the other side letting it sail undamaged into your ship.  This is called the tunneling effect.  This is not a problem on a laptop or desktop because the framerates are high.  Since we&amp;rsquo;re sampling less per second (~22 verses ~40) a moving object is drawn less times though it&amp;rsquo;s traveling the same distance.  In other words if an asteroid travels from the top of the screen to the bottom of the screen in one second, on your computer it will most likely get drawn 40 times during that trip and on an iPad it will get drawn only 22 times leaving larger gaps between the drawings.  These larger gaps leave more of a chance for things to slip through and not collide when your eyes say they should have.&lt;/p&gt; &lt;p&gt;I&amp;rsquo;m considering augmenting the collision detection to remove the tunneling effect but it will need extra math which means slower framerates, at least initially.  It might be a better use of my time to pump framerates up.&lt;/p&gt; &lt;h4&gt;Buggy Touch Events&lt;/h4&gt; &lt;p&gt;There&amp;rsquo;s a bug with the iPad&amp;rsquo;s implementation of touch events in Javascript: if you have two fingers on the screen and raise one of them, a &amp;ldquo;touchend&amp;rdquo; event gets fired containing a reference to both fingers even though the second one hasn&amp;rsquo;t been raised.  If you then raise the second one, a &amp;ldquo;touchend&amp;rdquo; event is not fired.&lt;/p&gt; &lt;p&gt;It drove me nuts trying to figure this out and I haven&amp;rsquo;t been able to  work around it.&lt;/p&gt; &lt;p&gt;What this means for the game is that using two fingers at the same time will get frustrating fast as the control you&amp;rsquo;re holding down will stop working periodically.  I suggest tapping for the best experience instead of holding.&lt;/p&gt; &lt;p&gt;Oh, this does not happen on the iPhone in case you were wondering, it works as expected! I have sent a bug report to apple (with a &lt;a href="/wp-content/uploads/2010/05/test.html"&gt;sample html page&lt;/a&gt;) and hopefully they already have a fix that&amp;rsquo;s not available yet or they will fix it for a future release.&lt;/p&gt; &lt;p&gt;On a side note, why aren&amp;rsquo;t Apple&amp;rsquo;s bug lists searchable by the public?  They must get reams of dupes.&lt;/p&gt; &lt;ol&gt; &lt;/ol&gt; &lt;p&gt;In any case, let me know how it works!&lt;/p&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>HTML 5 Asteroids</title>
+    <link rel="alternate" href="http://dougmcinnes.com/2010/05/12/html-5-asteroids/"/>
+    <id>http://dougmcinnes.com/2010/05/12/html-5-asteroids/</id>
+    <published>2010-05-12</published>
+    <updated>2010-05-12</updated>
+    <author>
+      <name>Doug McInnes</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;img class="pull-right" title="asteriods" src="/images/asteriods.png" alt="" width="171" height="134" /&gt;&lt;/p&gt;
+
+&lt;p style="text-align: left;"&gt;For some  months I've been playing around with HTML 5's Canvas element because I was curious about it, especially after &lt;a href="http://wiki.github.com/tobeytailor/gordon/"&gt;seeing it run Flash&lt;/a&gt;.  I hacked at it for a  while then realized I had produced an Asteroids game.&lt;/p&gt;
+
+
+&lt;p&gt; &lt;h1 style="text-align: center;"&gt;&lt;a title="Play It!" href="/html-5-asteroids/"&gt;Play It!&lt;/a&gt;&lt;/h1&gt; &lt;p style="text-align: left;"&gt; &lt;/p&gt;&lt;p style="text-align: left;"&gt;The source code is &lt;a href="http://github.com/dmcinnes/HTML5-Asteroids"&gt;up on GitHub&lt;/a&gt;!&lt;/p&gt; &lt;p style="text-align: left;"&gt;The &lt;a href="https://developer.mozilla.org/en/Canvas_tutorial"&gt;Canvas&lt;/a&gt; element is super cool.  Basically all of the sprites in the game are simple paths defined by an array of points.  These points are translated, rotated and scaled based on their state at any given point in the game using the standard Canvas transformations.  Plus it gives it a nice retro feel.&lt;/p&gt;&lt;p style="text-align: left;"&gt;Let me know what you think!&lt;/p&gt; &lt;p style="text-align: left;"&gt;Here&amp;rsquo;s some cool links to things that helped me out with the game:&lt;/p&gt; &lt;ul style="text-align: left;"&gt; &lt;li&gt;&lt;a href="http://www.alienryderflex.com/polygon/"&gt;Determining Whether A Point Is Inside A Complex Polygon&lt;/a&gt;.  Firefox does the wrong thing when it comes to isPointInPath(), the main Canvas method I used for collision detection; It doesn&amp;rsquo;t apply the current transformations before determining if there&amp;rsquo;s been a collision (and &lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=405300"&gt;they won&amp;rsquo;t fix it&lt;/a&gt; for some reason).  I implemented this method to get around the problem but it works fast enough it could be used on all browsers.&lt;/li&gt; &lt;li&gt;&lt;a href="http://www.metanetsoftware.com/"&gt;Metanet Software&lt;/a&gt;, the makers of the awesome flash game &lt;a href="http://www.thewayoftheninja.org/n.html"&gt;N&lt;/a&gt;, have made a couple of extremely useful &lt;a href="http://www.metanetsoftware.com/technique.html"&gt;tutorials on collision detection&lt;/a&gt;.  These describe some of the techniques I used in the game, in particular the grid based broad-phase they describe in their second tutorial.&lt;/li&gt; &lt;li&gt;I used &lt;a href="http://typeface.neocracy.org/"&gt;typeface.js&lt;/a&gt; &amp;rsquo;s &lt;a href="http://typeface.neocracy.org/fonts.html"&gt;convert tool&lt;/a&gt; to convert the awesome &lt;a href="http://www.dafont.com/vector-battle.font"&gt;Vector Battle&lt;/a&gt; font into some JSON point data that could be easily used in the canvas.  Typeface.js is a neat library for easily embedding arbitrary fonts in the page.  On supported browsers it creates small canvas elements and renders the font inside based on the CSS.  I borrowed bits from the library to get the font rendering.&lt;/li&gt; &lt;/ul&gt;&lt;/p&gt;
+</summary>
+    <content type="html">&lt;p&gt;&lt;img class="pull-right" title="asteriods" src="/images/asteriods.png" alt="" width="171" height="134" /&gt;&lt;/p&gt;
+
+&lt;p style="text-align: left;"&gt;For some  months I've been playing around with HTML 5's Canvas element because I was curious about it, especially after &lt;a href="http://wiki.github.com/tobeytailor/gordon/"&gt;seeing it run Flash&lt;/a&gt;.  I hacked at it for a  while then realized I had produced an Asteroids game.&lt;/p&gt;
+
+
+&lt;p&gt; &lt;h1 style="text-align: center;"&gt;&lt;a title="Play It!" href="/html-5-asteroids/"&gt;Play It!&lt;/a&gt;&lt;/h1&gt; &lt;p style="text-align: left;"&gt; &lt;/p&gt;&lt;p style="text-align: left;"&gt;The source code is &lt;a href="http://github.com/dmcinnes/HTML5-Asteroids"&gt;up on GitHub&lt;/a&gt;!&lt;/p&gt; &lt;p style="text-align: left;"&gt;The &lt;a href="https://developer.mozilla.org/en/Canvas_tutorial"&gt;Canvas&lt;/a&gt; element is super cool.  Basically all of the sprites in the game are simple paths defined by an array of points.  These points are translated, rotated and scaled based on their state at any given point in the game using the standard Canvas transformations.  Plus it gives it a nice retro feel.&lt;/p&gt;&lt;p style="text-align: left;"&gt;Let me know what you think!&lt;/p&gt; &lt;p style="text-align: left;"&gt;Here&amp;rsquo;s some cool links to things that helped me out with the game:&lt;/p&gt; &lt;ul style="text-align: left;"&gt; &lt;li&gt;&lt;a href="http://www.alienryderflex.com/polygon/"&gt;Determining Whether A Point Is Inside A Complex Polygon&lt;/a&gt;.  Firefox does the wrong thing when it comes to isPointInPath(), the main Canvas method I used for collision detection; It doesn&amp;rsquo;t apply the current transformations before determining if there&amp;rsquo;s been a collision (and &lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=405300"&gt;they won&amp;rsquo;t fix it&lt;/a&gt; for some reason).  I implemented this method to get around the problem but it works fast enough it could be used on all browsers.&lt;/li&gt; &lt;li&gt;&lt;a href="http://www.metanetsoftware.com/"&gt;Metanet Software&lt;/a&gt;, the makers of the awesome flash game &lt;a href="http://www.thewayoftheninja.org/n.html"&gt;N&lt;/a&gt;, have made a couple of extremely useful &lt;a href="http://www.metanetsoftware.com/technique.html"&gt;tutorials on collision detection&lt;/a&gt;.  These describe some of the techniques I used in the game, in particular the grid based broad-phase they describe in their second tutorial.&lt;/li&gt; &lt;li&gt;I used &lt;a href="http://typeface.neocracy.org/"&gt;typeface.js&lt;/a&gt; &amp;rsquo;s &lt;a href="http://typeface.neocracy.org/fonts.html"&gt;convert tool&lt;/a&gt; to convert the awesome &lt;a href="http://www.dafont.com/vector-battle.font"&gt;Vector Battle&lt;/a&gt; font into some JSON point data that could be easily used in the canvas.  Typeface.js is a neat library for easily embedding arbitrary fonts in the page.  On supported browsers it creates small canvas elements and renders the font inside based on the CSS.  I borrowed bits from the library to get the font rendering.&lt;/li&gt; &lt;/ul&gt;&lt;/p&gt;
+</content>
+  </entry>
+</feed>

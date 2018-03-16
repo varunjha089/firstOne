@@ -1,0 +1,73 @@
+html {
+  background: url(/images/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(255,255,255,0);
+}
+
+a, a:visited, a:active, a:focus, a:hover {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #08b;
+}
+
+.page-header {
+  border: none;
+  background-color: rgba(238,238,238,0.6);
+  padding-bottom: 3ex;
+  margin-bottom: 40px;
+}
+
+.main-content {
+  padding-top: 5ex;
+  padding-bottom: 5ex;
+  background-color: #EEE;
+}
+
+body.index .main-content {
+  display: none;
+}
+
+article {
+  margin-bottom: 8ex;
+}
+
+article section.content {
+  margin-top: 2ex;
+}
+
+section.content a {
+  color: #944;
+}
+
+section.content a:hover {
+  color: #888;
+}
+
+article section.comments {
+  margin-top: 5ex;
+}
+
+.date {
+  font-size: 0.9em;
+}
+
+footer {
+  padding: 3ex;
+}
+
+figure {
+  margin: 4ex;
+}
+
+figure figcaption {
+  margin-top: 1ex;
+}
